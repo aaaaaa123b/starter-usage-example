@@ -1,0 +1,4 @@
+application:
+  sessions:
+    blacklist: [vasya]
+    schedule-invalidation: true
